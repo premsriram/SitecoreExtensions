@@ -1,0 +1,10 @@
+D:\Infosys\Users\Prem\SitecoreExtensions\SWEET.WebProjects.Core.SitecoreExtensions\SWEET.WebProjects.Core.SitecoreExtensions\obj\Debug\ResolveAssemblyReference.cache
+D:\Infosys\Users\Prem\SitecoreExtensions\SWEET.WebProjects.Core.SitecoreExtensions\SWEET.WebProjects.Core.SitecoreExtensions\bin\SWEET.WebProjects.Core.SitecoreExtensions.dll
+D:\Infosys\Users\Prem\SitecoreExtensions\SWEET.WebProjects.Core.SitecoreExtensions\SWEET.WebProjects.Core.SitecoreExtensions\bin\SWEET.WebProjects.Core.SitecoreExtensions.pdb
+D:\Infosys\Users\Prem\SitecoreExtensions\SWEET.WebProjects.Core.SitecoreExtensions\SWEET.WebProjects.Core.SitecoreExtensions\obj\Debug\SWEET.WebProjects.Core.SitecoreExtensions.dll
+D:\Infosys\Users\Prem\SitecoreExtensions\SWEET.WebProjects.Core.SitecoreExtensions\SWEET.WebProjects.Core.SitecoreExtensions\obj\Debug\SWEET.WebProjects.Core.SitecoreExtensions.pdb
+D:\Infosys\Users\Prem\SitecoreExtensions\SVN\INT\bin\SWEET.WebProjects.Core.SitecoreExtensions.dll
+D:\Infosys\Users\Prem\SitecoreExtensions\SVN\INT\bin\SWEET.WebProjects.Core.SitecoreExtensions.pdb
+D:\Infosys\Users\Prem\SitecoreExtensions\SVN\INT\obj\Debug\ResolveAssemblyReference.cache
+D:\Infosys\Users\Prem\SitecoreExtensions\SVN\INT\obj\Debug\SWEET.WebProjects.Core.SitecoreExtensions.dll
+D:\Infosys\Users\Prem\SitecoreExtensions\SVN\INT\obj\Debug\SWEET.WebProjects.Core.SitecoreExtensions.pdb
